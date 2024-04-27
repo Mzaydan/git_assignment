@@ -25,3 +25,4 @@ Main branch is the branch containing our initial our virgin code or work. As exp
 
 
 h. Besides our initial commit if it is a new repository, should we directly push our changes directly into the main branch?
+No. It's better to keep our code in the main branch as it is and work on different branches. Once we finish our work on branches, we merge it to the main one (by switiching to the main branch and then using git merge).

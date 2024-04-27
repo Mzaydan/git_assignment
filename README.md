@@ -1,6 +1,6 @@
 # Git Assignment - Mzaydan
 a. What is an issue?
-
+ANSWER: An issue in software development is like a to-do list item or a problem report in a shared notebook. It's a note that describes something that needs attention—like a bug to fix, a new feature to add, or a task to complete.
 
 b. What is a pull request?
 ANSWER: Pull request is a request to compare (and merge if suitable) the changes to the new forked repository.
@@ -21,8 +21,8 @@ ANSWER: git diff is used to be informed about the detailed changes in our files 
 
 
 g. What is the main branch?
-Main branch is the branch containing our initial our virgin code or work. As explained, our code will be changed in other branches and at the end all these branches will be merged to the Main branch.
+ANSWER: Main branch is the branch containing our initial our virgin code or work. As explained, our code will be changed in other branches and at the end all these branches will be merged to the Main branch.
 
 
 h. Besides our initial commit if it is a new repository, should we directly push our changes directly into the main branch?
-No. It's better to keep our code in the main branch as it is and work on different branches. Once we finish our work on branches, we merge it to the main one (by switiching to the main branch and then using git merge).
+ANSWER: No. It's better to keep our code in the main branch as it is and work on different branches. Once we finish our work on branches, we merge it to the main one (by switiching to the main branch and then using git merge).
